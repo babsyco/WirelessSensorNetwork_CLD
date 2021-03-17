@@ -10,7 +10,7 @@ This repository contains an outline and simulation of an original cross-layer de
 <img src="ELEC5514_summary_data.png" alt="drawing2" width="600"/>
 
 <p class="aligncenter">
-    <img align="middle" src="ELEC5514_summary_data.jpg" alt="centered image" />
+    <img align="middle" src="ELEC5514_summary_data.png" alt="centered image" />
 </p>
 
 <style>
